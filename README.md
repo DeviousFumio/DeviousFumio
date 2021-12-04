@@ -1,2 +1,2 @@
-### Hi there, I am Phire! 🚀
-I code using Node.js, mainly Discord Bots. </br>
+### Hi there, I am Phirexic! 🚀
+This repository is solely intended to prove my existence.
